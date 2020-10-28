@@ -1,3 +1,15 @@
+let length = prompt("How many characters do you want your password to be?")
+
+let special = confirm("Would you like to use special characters?")
+
+let numbers = confirm("Would you like to use numbers?")
+
+let caps = confirm("Would you lie to use capital letters")
+
+let special_set = []
+
+
+
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
