@@ -23,7 +23,7 @@ function generatePassword() {
     let numbers = confirm(`Would you like to use numbers in your password?
     Select 'OK' for Yes, and 'Cancel' to continue without numbers.`)
 
-    let caps = confirm(`Would you lie to use capital letters in your password?
+    let caps = confirm(`Would you like to use capital letters in your password?
     Select 'OK' for Yes, and 'Cancel' to continue without capital letters.`)
 
     let w_special = []
