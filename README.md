@@ -1,3 +1,11 @@
 # pw_gen
 
-Strong Password generator with Javascript.  UCI full-stack bootcamp week 2, homework 1.
+This app receives user input to determine password length and types of characters to include in a randomized strong password.
+
+Deployed app can be found at: https://greg-sam.github.io/pw_gen/
+
+This app was developed with JavaScript, HTML and CSS.
+
+Pictures of the app in use can be found at ./images of this repository.
+
+
